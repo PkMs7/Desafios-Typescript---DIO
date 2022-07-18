@@ -1,0 +1,27 @@
+{
+  "name": "desafios-typescript---dio",
+  "version": "1.0.0",
+  "description": "Desafios de introdução a Typescript - DIO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "tsc": "tsc --init",
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PkMs7/Desafios-Typescript---DIO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PkMs7/Desafios-Typescript---DIO/issues"
+  },
+  "homepage": "https://github.com/PkMs7/Desafios-Typescript---DIO#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "tsc-watch": "^5.0.3",
+    "typescript": "^4.7.4"
+  }
+}
